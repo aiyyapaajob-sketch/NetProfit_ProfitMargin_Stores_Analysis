@@ -1,0 +1,2 @@
+# NetProfit_ProfitMargin_Stores_Analysis
+NetProfit_ProfitMargin_Stores_Analysis with data and visuals.
